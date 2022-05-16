@@ -1,5 +1,5 @@
 # superiso_nmfv
-Working version of code for nmfv version of superiso
+Working version of code for nmfv version of superiso with MIA contrributions to the Wilson coefficients C7 C9 C10 relevant for b->sll
 
 ## Dependencies 
 
