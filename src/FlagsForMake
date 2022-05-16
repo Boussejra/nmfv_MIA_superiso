@@ -1,0 +1,12 @@
+CC = gcc
+CFLAGS = -O3 -g -pipe -fomit-frame-pointer -Wall -Wextra
+CFLAGS_MP =
+MAKE = make
+AR = ar
+ARFLAGS = rcsU
+SOFTSUSY = /home/boussejra/Softsusy/softpoint.x
+ISAJET = /home/boussejra/isajet/isasugra.x
+SPHENO = /home/boussejra/spheno/bin/SPheno
+SUSPECT = /home/boussejra/suspect/suspect2
+THDMC = /home/boussejra/2HDMC
+NMSSMTOOLS = /home/boussejra/nmssmtools/main
